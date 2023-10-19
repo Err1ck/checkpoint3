@@ -1,5 +1,6 @@
 import "./App.css";
+import {Form} from "./components/Form";
 
 export function App() {
-  return
+  return <Form />;
 }
